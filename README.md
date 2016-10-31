@@ -1,5 +1,5 @@
 # fluid-js
-A JavaScript framework for spatial metaphor interfaces.
+A JavaScript framework for spatial interfaces.
 
 ## About Fluid
 
